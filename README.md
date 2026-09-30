@@ -37,6 +37,43 @@ Texto em Itálico
 1. Primeiro passo
 2. Segundo passo
 3. Terceiro passo
+4. Link simples:
+[Clique aqui para acessar o Google](https://www.google.com)
+
+## 4. Links e Imagem:
+![Descrição da Imagem (Texto Alternativo)](https://urldasuaimagem.com/foto.jpg)
+
+## 5. Citações (Blockquotes)
+> Esta é uma citação em bloco.
+> Tudo o que estiver com este sinal no início ficará destacado.
+>> Você também pode fazer citações aninhadas.
+
+## 6. Trechos de Códigos (Code)
+Código na mesma linha (inline):
+Use a tag `
+` para quebrar a linha.
+
+Bloco de código com várias linhas:
+```
+Linha de código 1
+Linha de código 2
+Linha de código 3
+```
+
+## 7. Tabelas
+| Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
+| :---        | :---:       | ---:        |
+| Alinhado    | Alinhado    | Alinhado    |
+| à esquerda  | ao centro   | à direita   |
+| Linha 2     | Linha 2     | Linha 2     |
+
+## 8. Linha horizontal (Divisória)
+
+---
+
+***
+
+___
 
 ### Lista de Tarefas
 
